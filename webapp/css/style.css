@@ -1,0 +1,14 @@
+/* Enter your custom styles here */
+.vbox{
+	background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+.label{
+	color:black;
+	font-size:15px;
+}
+
+#__xmlview0--btn-inner{
+	background-color:blue;
+	color: ghostwhite;
+}
